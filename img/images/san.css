@@ -1,0 +1,510 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.one{
+	width: 100%;
+	height: 40px;
+	background-color: #333333;
+}
+.two{
+	color: #ffffff;
+	text-align: center;
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.there{
+	width: 100%;
+	height: 80px;
+}
+.four{
+	width: 350px;
+	height: 80px;
+	float: left;
+}
+.five{
+	background-color: #f5f5f5;
+	width: 100%;
+	height: 90px;
+	float: left;
+}
+.six{
+	margin-left: 110px;
+	text-align:left;
+	padding-top: 35px;
+	float: left;
+}
+.seven{
+	width: 100%;
+	height: 730px;
+	background-color: #f5f5f5;
+}
+.eight{
+	width: 700px;
+	height: 580px;
+	margin-left: 110px;
+	background-color: #ffffff;
+	float: left;
+}
+.nine{
+	margin-left: 15px;
+	margin-top: 15px;
+	float: left;
+}
+.ten{
+	margin-top: 10px;
+	margin-left: 15px;
+	float: left;
+}
+.eleven{
+	float: left;
+	width: 450px;
+	height: 580px;
+	background-color: #ffffff;
+
+}
+.twelve{
+	width: 350px;
+	height: 420px;
+	margin-left: 20px;
+}
+.thirteen{
+	width: 350px;
+	height: 100px;
+	line-height: 30px;
+	margin-left: 20px;
+}
+.forteen{
+	width: 100%;
+	height: 660px;
+	background-color:  #f5f5f5;
+}
+.fifteen{
+	width: 110px;
+	height: 660px;
+	float: left;
+}
+.sixteen{
+	width: 1150px;
+	height: 660px;
+	border: 1px solid #1c5080;
+	float: left;
+}
+.seventeen{
+	width: 700px;
+	height: 550px;
+	background-color: #fff;
+	float: left;
+}
+.eighteen{
+	width: 700px;
+	height: 50px;
+	background-color:  #f5f5f5;
+	border: 1px solid #1c5080;
+}
+.nineteen{
+	width: 700px;
+	height: 500px;
+}
+.twenty{
+	width: 700px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border: 1px solid #1c5080;
+	float: left;
+}
+.twenty-one{
+	width: 438px;
+	height: 400px;
+	margin-left: 10px;
+	float: left;
+	border: 1px solid #1c5080;
+}
+.a{
+	width: 438px;
+	height: 400px;
+	background-color: #fff;
+}
+.twenty-two{
+	width: 438px;
+	height: 50px;
+	background-color: #f5f5f5;
+	border: 1px solid #1c5080;
+}
+.twenty-three{
+	width: 330px;
+	height: 180px;
+	float: left;
+
+}
+.twenty-four{
+	margin-top: 35px;
+	height: 80px;
+	width: 330px;
+	float: left;
+	padding-top: 20px;
+}
+.twenty-five{
+	height: 150px;
+	width: 330px;
+	line-height: 30px;
+	float: left;
+}
+.twenty-six{
+	margin-top: 30px;
+	height: 50px;
+	width: 400px;
+	text-align: right;
+	float: left;
+}
+.twenty-seven{
+	width: 200px;
+	height: 50px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 200px;
+	border-radius: 10px;
+	color: #fff;
+	text-align: center;
+	padding-top: 5px;
+	background-color: red;
+}
+.twenty-eight{
+	width: 100%;
+	height: 45px;
+	background-color: #f5f5f5;
+}
+.twenty-nine{
+	width: 100%;
+	height: 2150px;
+	background-color: #f5f5f5;
+}
+.thirty{
+	width: 110px;
+	height: 2150px;
+	float: left;
+}
+.thirty-one{
+	width: 1150px;
+	height: 2150px;
+	background-color: #fff;
+	float: left;
+	border: 1px solid #1c5080;
+}
+.b{
+	width: 1150px;
+	height: 430px;
+	border: 1px solid #1c5080;
+}
+.thirty-two{
+	width: 1150px;
+	height: 50px;
+	border-bottom: 1px solid #1c5080;
+}
+.thirty-three{
+	width: 180px;
+	height: 50px;
+	background-color: #1c5080;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+	float: left;
+}
+.thirty-four{
+	width: 800px;
+	height: 50px;
+	line-height: 50px;
+	margin-left: 30px;
+	color: red;
+	float: left;
+}
+.thirty-five{
+	height: 26px;
+	width: 1150px;
+	float: left;
+}
+.thirty-six{
+	width: 50px;
+	height: 60px;
+	text-align: center;
+	color: red;
+	float: left;
+}
+.thirty-seven{
+	width: 800px;
+	height: 60px;
+    float: left;
+}
+.thirty-eight{
+	width: 1050px;
+	height: 330px;
+	color: #666666;
+	margin-left: 50px;
+	line-height: 35px;
+	float: left;
+}
+.thirty-nine{
+	width: 1150;
+	height: 170px;
+	border:  1px solid #1c5080;
+}
+.forty{
+	width: 1150px;
+	height: 430px;
+	border:  1px solid #1c5080;
+}
+.forty-a{
+	width: 1150px;
+	height: 260px;
+	border:  1px solid #1c5080;
+}
+.forty-ab{
+	width: 900px;
+	height: 170px;
+	margin-left: 60px;
+	line-height: 40px;
+	float: left;
+}
+.forty-one{
+	width: 800px;
+	height: 320px;
+	margin-left: 50px;
+	line-height: 50px;
+	float: left;
+}
+.forty-two{
+	width: 1150px;
+	height: 450px;
+	border:  1px solid #1c5080;
+	float: left;
+}
+.forty-three{
+	width: 1060px;
+	height: 300px;
+	margin-left: 60px;
+	line-height: 35px;
+	float: left;
+}
+.forty-four{
+	width: 1150px;
+	height: 45px;
+	background-color: #f5f5f5;
+	float: left;
+}
+.forty-five{
+	width: 1150px;
+	height: 300px;
+	background-color: #f5f5f5;
+	float: left;
+}
+.forty-six{
+	width: 280px;
+	height: 180px;
+	background: url(../bigphotos/big41.jpg);
+	margin-right: 10px;
+	float: left;
+}
+.forty-seven{
+	width: 280px;
+	height: 180px;
+	background: url(../bigphotos/big42.jpg);
+	float: left;
+}
+.forty-eight{
+	height: 60px;
+	width: 60px;
+	margin-top: 60px;
+	margin-left: 45px;
+	float: left;
+}
+.forty-nine{
+	height: 150px;
+	width: 70px;
+	margin-top: 60px;
+	margin-left: 20px;
+	float: left;
+}
+.fifty{
+	width: 200px;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+.fifty-one{
+	width: 280px;
+	height: 200px;
+	margin-left: 0px;
+	text-align: center;
+	margin-left: 10px;
+	float: left;
+}
+.fifty-two{
+	width: 100%;
+	height: 780px;
+	background-color: #000000;
+}
+.fifty-three{
+	width: 100%;
+	height: 60px;
+	float: left;
+}
+.fifty-four{
+	width: 100%;
+	height: 200px;
+	border-bottom: 1px solid #f5f5f5;
+	float: left;
+}
+.fifty-five{
+	width: 110px;
+	height: 190px;
+	float: left;
+	margin-left: 110px;
+	line-height: 30px;
+	color: #ffffff;
+}
+.fifty-six{
+	width: 110px;
+	height: 190px;
+	float: left;
+	line-height: 30px;
+	color: #ffffff;
+}
+.fifty-seven{
+	width: 120px;
+	height: 190px;
+	float: left;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+}
+.fifty-eight{
+	width: 60px;
+	height: 150px;
+	margin-top: 40px;
+	float: left;
+	color: #fff;
+}
+.fifty-nine{
+	width: 120px;
+	height: 190px;
+	float: left;
+}
+.sixty{
+	width: 70px;
+	height: 190px;
+	margin-left: 90px;
+	float: left;
+}
+.sixty-one{
+	width: 350px;
+	height: 80px;
+	color: #fff;
+	float: left;
+}
+.sixty-two{
+	width: 125px;
+	height: 80px;
+	float: left;
+}
+.sixty-three{
+	width: 225px;
+	height: 80px;
+	float: left;
+}
+.sixty-four{
+	width: 100%;
+	height: 360px;
+	float: left;
+}
+.sixty-five{
+	width: 800px;
+	height: 100px;
+	margin-left: 110px;
+	margin-top: 37px;
+	float: left;
+}
+.sixty-five-one{
+	width: 90px;
+	height: 100px;
+	color: #fff;
+	float: left;
+}
+.sixty-five-two{
+	width: 600px;
+	height: 59px;
+	float: left;
+}
+.sixty-six{
+	width: 115px;
+	height: 45px;
+	text-align: center;
+	margin-right: 12px;
+	background-color: #fff;
+	float: left;
+}
+.sixty-seven{
+	width: 580px;
+	height: 35px;
+	float: left;
+}
+.sixty-eight{
+	width: 1200px;
+	height: 78px;
+	float: left;
+	margin-left: 110px;
+}
+.sixty-eight-one{
+	width: 90px;
+	height: 78px;
+	color: #fff;
+	float: left;
+}
+.sixty-eight-two{
+	width: 1080px;
+	height: 78px;
+	float: left;
+	color: #fff;
+	line-height: 30px;
+}
+.sixty-nine{
+	width: 1100px;
+	height:45px;
+	margin-left: 110px;
+	float: left;
+
+}
+.sixty-nine-one{
+	width: 90px;
+	height:45px;
+	float: left;
+	color: #fff;
+}
+.sixty-nine-two{
+	width: 1000px;
+	height:45px;
+	float: left;
+	color: #fff;
+}
+.seventy{
+	width: 100%;
+	height: 150px;
+	border-top: 1px solid #f5f5f5;
+	float: left;
+}
+.seventy-one{
+	width: 570px;
+	height: 69px;
+	margin-left:330px; 
+	margin-top: 35px;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+}
