@@ -1,0 +1,432 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.one{
+	width: 100%;
+	height: 40px;
+	background-color: #333333;
+}
+.one-yi{
+	color: #ffffff;
+	text-align: center;
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.two{
+	width: 100%;
+	height: 80px;
+	border-bottom: 1px solid #010101;
+}
+.two-yi{
+	width: 350px;
+	height: 80px;
+	float: left;
+}
+.three{
+	width: 100%;
+	height: 620px;
+}
+.three-yi{
+	width: 1150px;
+	height: 620px;
+	margin-left: 100px;
+	float: left;
+}
+.three-yi-a{
+	width: 1150px;
+	height: 65px;
+	padding-top: 40px;
+	float: left;
+}
+.three-yi-b{
+	width: 1150px;
+	height: 480px;
+	border: 1px solid #b5b5b5;
+	float: left;
+}
+.three-yi-c{
+	width: 1150px;
+	height: 50px;
+	border-bottom: 3px solid #1c5080;
+	float: left;
+}
+.three-yi-d{
+	width: 150px;
+	height: 40px;
+	padding-top: 10px;
+	background-color: #1c5080;
+	color: #fff;
+	text-align: center;
+	font-size: 24px;
+}
+.three-er{
+	width: 1150px;
+	height: 50px;
+	font-size: 20px;
+	float: left;
+	border-bottom: 1px solid #b5b5b5;
+}
+.three-er-a{
+	width: 150px;
+	height: 40px;
+	padding-top: 10px;
+	background-color: #f5f5f5;
+	text-align: center;
+	float: left;
+}
+.three-er-b{
+	width: 880px;
+	height: 40px;
+	padding-top: 10px;
+	float: left;
+	margin-left: 20px;
+}
+.three-er-c{
+	width: 88px;
+	height: 40px;
+	padding-top: 10px;
+	float: left;
+}
+.three-san{
+	width: 950px;
+	height: 100px;
+	padding-top: 20px;
+	margin-left: 170px;
+	line-height: 40px;
+	float: left;
+	font-size: 18px;
+}
+.three-si{
+	width: 1150px;
+	height: 50px;
+	font-size: 20px;
+	float: left;
+	border-top: 1px solid #b5b5b5;
+	border-bottom: 1px solid #b5b5b5;
+}
+.three-wu{
+	width: 50px;
+	height: 415px;
+	margin-top: 15px;
+	float: right;
+}
+.three-wu-a{
+	width: 50px;
+	height: 40px;
+	padding-top: 10px;
+	margin-bottom: 2px;
+	text-align: center;
+	background-color: blue;
+	float: left;
+}
+.three-wu-b{
+	width: 50px;
+	height: 150px;
+	padding-top: 10px;
+	margin-bottom: 2px;
+	background-color: red;
+	float: left;
+}
+.three-liu{
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	float: left;
+}
+.three-liu-a{
+	width: 50px;
+	text-align: center;
+	height: 100px;
+	float: left;
+}
+.four{
+	width: 100%;
+	height: 82px;
+}
+.four-yi{
+	width: 1150px;
+	height: 50px;
+	background-color: #f5f5f5;
+	margin-left: 100px;
+	border: 1px solid #b5b5b5;
+}
+.four-yi-a{
+	width: 100px;
+	height: 40px;
+	padding-top: 10px;
+	margin-left: 40px;
+	float: left;
+}
+.four-yi-b{
+	width: 210px;
+	height: 40px;
+	font-size: 18px;
+	padding-top: 10px;
+	float: right;
+}
+.five{
+	width: 100%;
+	height: 350px;
+}
+.five-yi{
+	width: 1150px;
+	height: 330px;
+	margin-left: 100px;
+	border-bottom: 1px dashed #b5b5b5;
+}
+.five-er{
+	width: 430px;
+	height: 300px;
+	float: left;
+}
+.five-san{
+	width: 700px;
+	height: 300px;
+	margin-left: 20px;
+	float: left;
+}
+.five-a{
+	width: 700px;
+	height: 150px;
+	float: left;
+}
+.five-b{
+	width: 330px;
+	height: 150px;
+	float: left;
+}
+.five-c{
+	width: 330px;
+	height: 40px;
+	margin-top: 110px;
+	float: left;
+}
+.five-d{
+	width: 130px;
+	height: 32px;
+	float: right;
+	color: #fff;
+	background-color: red;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 8px;
+}
+.liu{
+	width: 1150px;
+	height: 36px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.liu-yi{
+	width: 36px;
+	height: 26px;
+	padding-top: 10px;
+	border: 1px solid #b5b5b5;
+	border-radius: 5px;
+	margin-left: 775px;
+	float: left;
+	text-align: center;
+}
+.liu-er{
+	width: 36px;
+	height: 26px;
+	padding-top: 10px;
+	border: 1px solid #b5b5b5;
+	border-radius: 5px;
+	margin-left: 5px;
+	float: left;
+	text-align: center;
+}
+.liu-san{
+	width: 36px;
+	height: 26px;
+	padding-top: 10px;
+	background-color: blue;
+	color: #fff;
+	border: 1px solid #b5b5b5;
+	border-radius: 5px;
+	margin-left: 5px;
+	float: left;
+	text-align: center;
+}
+.liu-si{
+	width: 70px;
+	height: 30px;
+	padding-top: 6px;
+	border: 1px solid #b5b5b5;
+	border-radius: 5px;
+	margin-left: 5px;
+	float: left;
+	text-align: center;
+}
+.fifty-two{
+	margin-top: 120px;
+	width: 100%;
+	height: 780px;
+	background-color: #000000;
+}
+.fifty-three{
+	width: 100%;
+	height: 60px;
+	float: left;
+}
+.fifty-four{
+	width: 100%;
+	height: 200px;
+	border-bottom: 1px solid #f5f5f5;
+	float: left;
+}
+.fifty-five{
+	width: 110px;
+	height: 190px;
+	float: left;
+	margin-left: 110px;
+	line-height: 30px;
+	color: #ffffff;
+}
+.fifty-six{
+	width: 110px;
+	height: 190px;
+	float: left;
+	line-height: 30px;
+	color: #ffffff;
+}
+.fifty-seven{
+	width: 120px;
+	height: 190px;
+	float: left;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+}
+.fifty-eight{
+	width: 60px;
+	height: 150px;
+	margin-top: 40px;
+	float: left;
+	color: #fff;
+}
+.fifty-nine{
+	width: 120px;
+	height: 190px;
+	float: left;
+}
+.sixty{
+	width: 70px;
+	height: 190px;
+	margin-left: 90px;
+	float: left;
+}
+.sixty-one{
+	width: 350px;
+	height: 80px;
+	color: #fff;
+	float: left;
+}
+.sixty-two{
+	width: 125px;
+	height: 80px;
+	float: left;
+}
+.sixty-three{
+	width: 225px;
+	height: 80px;
+	float: left;
+}
+.sixty-four{
+	width: 100%;
+	height: 360px;
+	float: left;
+}
+.sixty-five{
+	width: 800px;
+	height: 100px;
+	margin-left: 110px;
+	margin-top: 37px;
+	float: left;
+}
+.sixty-five-one{
+	width: 90px;
+	height: 100px;
+	color: #fff;
+	float: left;
+}
+.sixty-five-two{
+	width: 600px;
+	height: 59px;
+	float: left;
+}
+.sixty-six{
+	width: 115px;
+	height: 45px;
+	text-align: center;
+	margin-right: 12px;
+	background-color: #fff;
+	float: left;
+}
+.sixty-seven{
+	width: 580px;
+	height: 35px;
+	float: left;
+}
+.sixty-eight{
+	width: 1200px;
+	height: 78px;
+	float: left;
+	margin-left: 110px;
+}
+.sixty-eight-one{
+	width: 90px;
+	height: 78px;
+	color: #fff;
+	float: left;
+}
+.sixty-eight-two{
+	width: 1080px;
+	height: 78px;
+	float: left;
+	color: #fff;
+	line-height: 30px;
+}
+.sixty-nine{
+	width: 1100px;
+	height:45px;
+	margin-left: 110px;
+	float: left;
+
+}
+.sixty-nine-one{
+	width: 90px;
+	height:45px;
+	float: left;
+	color: #fff;
+}
+.sixty-nine-two{
+	width: 1000px;
+	height:45px;
+	float: left;
+	color: #fff;
+}
+.seventy{
+	width: 100%;
+	height: 150px;
+	border-top: 1px solid #f5f5f5;
+	float: left;
+}
+.seventy-one{
+	width: 570px;
+	height: 69px;
+	margin-left:330px; 
+	margin-top: 35px;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+}
